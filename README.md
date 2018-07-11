@@ -1,0 +1,1 @@
+# simlife-registry-sample-config
