@@ -5,7 +5,7 @@
 # Property used on app startup to check the config server status
 configserver:
     name: Simlife Registry config server
-    status: Connected to the Simlife Registry config server, using https://github.com/simlife/jhipster-registry-sample-config !
+    status: Connected to the Simlife Registry config server, using https://github.com/simlife/simlife-registry-sample-config !
 
 # Default JWT secret token (to be changed in production!)
 simlife:
